@@ -1,10 +1,9 @@
 import React from 'react'
 
 function Bannercomponent() {
-    console.log("jello")
   return (
-    <div>
-        <h1>application</h1>
+    <div className='Banner'>
+        <h1>S--tent application</h1>
         
     </div>
   )

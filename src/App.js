@@ -1,11 +1,11 @@
 import React from 'react'
-import './App.css';
-import Addresscomponent from './components/Addresscomponent';
+import Exhibitcomponent from './components/Exhibitcomponent';
 import Bannercomponent from './components/Bannercomponent';
 function App() {
   return (
     <div className="App">
-     <Addresscomponent />
+    <Bannercomponent />
+    <Exhibitcomponent />
      
     </div>
   );
